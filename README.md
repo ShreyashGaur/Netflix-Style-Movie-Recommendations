@@ -1,1 +1,1 @@
-# Movie-Recommendations-using-Machine-Learning
+# Netflix-Style-Movie-Recommendations
