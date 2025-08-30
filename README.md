@@ -1,1 +1,1 @@
-# Netflix-Style-Movie-Recommendations
+# Netflix-Style-Movie-Recommendations-Model
